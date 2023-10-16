@@ -1,0 +1,4 @@
+columns:
+  document: document
+  preprocessed_document: preprocessed_document
+  pos: okt_pos
